@@ -26,6 +26,10 @@ img{
 	padding: 25px;
 	
 }
+a{
+    text-decoration: none;
+    text-align: center;
+}
 
 .formulario__label {
 	display: block;
